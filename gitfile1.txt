@@ -1,1 +1,4 @@
-welcome to git-practice
+               welcome to git-practice
+* GIT is a distributed version control system that tracks versions of files
+
+* GitHub  is a web-based platform that provides a cloud-based Git repository hosting service, enabling developers to store, share, and collaborate on code projects, track changes, and manage version control. 
